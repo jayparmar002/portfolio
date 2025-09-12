@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+::selection{
+    background-color: #2EF943;
+    color: #010101;
+}
+
+body{
+    font-family: "Bricolage Grotesque", sans-serif;
+}
