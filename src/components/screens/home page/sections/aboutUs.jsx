@@ -1,6 +1,5 @@
 import React from 'react'
 import Button from '../../../ui/btn'
-import SplitText from '../../../ui/SplitText';
 import { Link } from 'react-router-dom';
 import Heading from '../../../ui/heading';
 
