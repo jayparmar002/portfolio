@@ -1,5 +1,5 @@
 import React, { memo, useState, useEffect, useRef } from 'react'
-import SplitText from './SplitText'
+import SplitText from './splitText'
 import { Link } from 'react-router-dom'
 
 const ServiceCard = memo(({

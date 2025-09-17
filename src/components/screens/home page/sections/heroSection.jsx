@@ -1,8 +1,9 @@
 import React from 'react';
 import Prism from '../../../ui/prism';
-import SplitText from '../../../ui/SplitText';
+import SplitText from '../../../ui/splitText.jsx';
 import CountUp from '../../../ui/countUp';
 import Button from '../../../ui/btn';
+
 
 const handleAnimationComplete = () => {
     console.log('All letters have animated!');

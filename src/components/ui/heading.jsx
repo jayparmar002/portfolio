@@ -1,5 +1,5 @@
 import React, { memo } from 'react'
-import SplitText from './SplitText'
+import SplitText from './splitText'
 
 const Heading = memo(({
     text = "HEADING",
